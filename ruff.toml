@@ -2,7 +2,7 @@ target-version = "py313"
 line-length = 100
 
 [lint]
-select = ["E", "F", "I", "S", "UP"]
+select = ["A", "B", "E", "F", "G", "I", "N", "S", "UP", "PTH", "NPY", "PD", "RUF"]
 
 [lint.isort]
 lines-after-imports = 2

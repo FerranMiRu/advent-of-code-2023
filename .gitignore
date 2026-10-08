@@ -170,6 +170,14 @@ cython_debug/
 # General
 .vscode/
 
+### Zed ###
+# General
+.zed/
+
+### Claude ###
+# General
+.claude/settings.local.json
+
 ### Repo specifics ###
 proof
 # Advent of Code - Don't commit input data or problem statements per AoC guidelines
